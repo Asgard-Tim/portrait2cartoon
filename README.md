@@ -2,6 +2,8 @@
 
 打开摄像头或导入一张照片，在画面合格时去掉背景，并用卷积网络生成白底人物线稿。
 
+项目内容已上传至Github：https://github.com/Asgard-Tim/portrait2cartoon
+
 ## 项目思路
 
 系统分两条路径，素描网络相同。
