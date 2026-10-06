@@ -1,0 +1,10 @@
+.venv/
+.mplconfig/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# 运行时拍摄的原图和线稿，不纳入仓库
+input/capture_*.png
+input/import_*.png
+output/sketch_*.png
